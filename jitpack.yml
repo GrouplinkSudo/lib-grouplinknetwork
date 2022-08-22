@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=lib-grouplink.aar"
-  - mvn install:install-file $FILE -DgroupId=com.grouplinknetwork -DartifactId=lib-grouplink -Dversion=3.15.4 -Dpackaging=aar -DpomFile=pom.xml
+  - FILE="-Dfile=lib-grouplinknetwork.aar"
+  - mvn install:install-file $FILE -DgroupId=com.grouplinknetwork -DartifactId=lib-grouplinknetwork -Dversion=3.15.5 -Dpackaging=aar -DpomFile=pom.xml
