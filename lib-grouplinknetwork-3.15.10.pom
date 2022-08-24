@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.grouplinknetwork</groupId>
   <artifactId>lib-grouplinknetwork</artifactId>
-  <version>3.15.9</version>
+  <version>3.15.10</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
