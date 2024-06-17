@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.grouplinknetwork</groupId>
   <artifactId>lib-grouplinknetwork</artifactId>
-  <version>4.3.20</version>
+  <version>4.5.13</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -60,11 +60,6 @@
       <groupId>androidx.constraintlayout</groupId>
       <artifactId>constraintlayout</artifactId>
       <version>2.1.4</version>
-    </dependency>
-    <dependency>
-      <groupId>io.michaelrocks</groupId>
-      <artifactId>paranoid-core</artifactId>
-      <version>0.3.7</version>
     </dependency>
   </dependencies>
 </project>
