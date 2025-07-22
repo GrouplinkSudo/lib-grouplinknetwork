@@ -1,0 +1,129 @@
+SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT - READ CAREFULLY BEFORE USING THIS SOFTWARE
+
+This Software License Agreement (the &quot;Agreement&quot;) is a legal agreement between you (either
+an individual or a single entity, “) and Group Link Operations S.A. (&quot;Licensor&quot;) for the software
+product identified above, which includes computer software and may include associated media,
+printed materials, and &quot;online&quot; or electronic documentation (&quot;Software&quot;).
+By installing, copying, or otherwise using the software, you agree to be bound by the
+terms of this agreement. If you do not agree to the terms of this agreement, do not install
+or use the software.
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, Licensor hereby grants you a limited,
+non-exclusive, non-transferable license to:
+a) Install and use the Software on devices owned, leased, or controlled by you;
+b) Make copies of the Software solely for backup or archival purposes;
+c) Use the Software for the purpose of integrating with your applications as described in the
+accompanying documentation.
+2. RESTRICTIONS
+You may NOT:
+a) Modify, adapt, alter, translate, or create derivative works of the Software;
+b) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of
+the Software, except to the extent that such activity is expressly permitted by applicable law;
+c) Remove, alter, or obscure any proprietary notices on the Software;
+d) Use the Software for any illegal purpose;
+e) Sublicense, rent, lease, loan, or transfer the Software or any rights granted under this
+Agreement without the prior written consent of Licensor;
+f) Use the Software in any manner that could damage, disable, overburden, or impair the
+functioning of the Software or interfere with any other party&#39;s use and enjoyment of the
+Software.
+
+3. OWNERSHIPThe Software is licensed, not sold. Licensor retains all right, title, and interest in
+and to the Software and all intellectual property rights therein, including without limitation all
+patent, copyright, trademark, and trade secret rights. This Agreement does not grant you any
+rights to trademarks or service marks of Licensor.
+4. DATA COLLECTION AND PRIVACY
+The Group Link SDK, which enables the structuring of the Group Link Network, is incorporated
+in your application and it becomes available to its users.
+The Software does not directly access personal data stored on the devices. Instead, it
+generates a unique identifier that can be easily reset by uninstalling the application. During
+operation, the Software may collect certain information, including device-specific details and
+usage data.
+All data collection and processing of personal data that eventually occur will be conducted in
+accordance with applicable data protection laws, including but not limited to the Lei Geral de
+Proteção de Dados (LGPD) in Brazil and the General Data Protection Regulation (GDPR) in
+Europe, as applicable.
+Group Link may share collected data with third parties solely for specific and limited purposes,
+ensuring that pseudonymization and anonymization techniques are employed whenever
+possible.
+By using Group Links software, you must guarantee that will comply with all information security
+policies, rules and guidelines for the protection of personal data, including issues relating to
+storage, encryption and access controls, in order to protect them against loss, disclosure and
+unauthorized access, whether accidental or not, and must adopt measures to ensure adequate
+security against the risks posed by the nature of the data.
+You are responsible for properly informing your end-users (the data subjects) about the data
+processing conducted by Group Link, as you have direct contact with these users.
+End-users may exercise their data subject rights by contacting Group Link via email at
+dpo@grouplinkone.com. Additionally, data subjects have the right to object to processing based
+on legitimate grounds. If a data subject disagrees with Group Link&#39;s processing activities, they
+may opt-out through the following link: https://grouplinkone.com/forget-device.
+You are obliged to comply with all applicable app store guidelines, including, but not limited to
+Apple App Store and Google Play Store guidelines.
+5. UPDATES AND UPGRADES
+Licensor may provide you with updates or upgrades to the Software. Any such updates or
+upgrades shall be governed by this Agreement unless other terms are provided with the
+updates or upgrades.
+
+6. MAINTENANCE AND SUPPORT
+Licensor may provide maintenance and support for the Software but is not obligated to do so
+unless a separate agreement for maintenance and support has been entered into between you
+and Licensor.
+7. TERM AND TERMINATION
+This Agreement is effective until terminated. You may terminate this Agreement at any time by
+ceasing all use of the Software and destroying all copies of the Software in your possession or
+control.
+Licensor may terminate this Agreement immediately and without notice if you fail to comply with
+any term of this Agreement. Upon termination, you must cease all use of the Software and
+destroy all copies of the Software in your possession or control.
+8. WARRANTY DISCLAIMER
+The software is provided &quot;as is&quot; without warranty of any kind, either express or implied,
+including, but not limited to, the implied warranties of merchantability, fitness for a particular
+purpose, and noninfringement. Licensor does not warrant that the functions contained in the
+software will meet your requirements or that the operation of the software will be uninterrupted
+or error-free.
+9. LIMITATION OF LIABILITY
+In no event shall licensor be liable for any special, incidental, indirect, or consequential
+damages whatsoever (including, without limitation, damages for loss of business profits,
+business interruption, loss of business information, or any other pecuniary loss) arising out of
+the use of or inability to use the software, even if licensor has been advised of the possibility of
+such damages.
+Licensor&#39;s entire liability under any provision of this agreement shall be limited to the amount
+actually paid by you for the software.
+10. INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless Licensor, its officers, directors, employees,
+agents, and affiliates from and against any and all claims, damages, losses, liabilities, costs,
+and expenses (including reasonable attorneys&#39; fees) arising from or relating to your use of the
+Software or your breach of this Agreement.
+11. EXPORT CONTROLS
+
+You agree to comply with all applicable international and national laws that apply to the
+Software, including the export regulations of your country of residence and the country from
+which you access the Software.
+12. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of Brazil,
+without giving effect to any principles of conflicts of law. Any dispute arising out of or relating to
+this Agreement shall be subject to the exclusive jurisdiction of the courts of São Paulo, Brazil.
+13. SEVERABILITY
+If any provision of this Agreement is held to be unenforceable or invalid, such provision shall be
+changed and interpreted to accomplish the objectives of such provision to the greatest extent
+possible under applicable law, and the remaining provisions shall continue in full force and
+effect.
+14. WAIVER
+The failure of Licensor to enforce any right or provision of this Agreement will not be deemed a
+waiver of such right or provision.
+15. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between you and Licensor regarding the
+Software and supersedes all prior and contemporaneous agreements, proposals, or
+representations, written or oral, concerning the Software.
+16. AMENDMENTS
+Licensor reserves the right to modify this Agreement at any time by posting the modified
+agreement on its website. Your continued use of the Software after any such changes
+constitutes your acceptance of the modified agreement.
+17. CONTACT INFORMATIONIf you have any questions about this Agreement, please contact
+Licensor at:
+Group Link Operations S.A.
+R. Gomes de Carvalho, 1.510 - 12º andar Vila Olímpia - São Paulo - SP - Brasil
+Email: legal@grouplinkone.com
+Website: https://grouplinkone.com
+Last updated: March 26, 2025
